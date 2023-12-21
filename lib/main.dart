@@ -21,7 +21,9 @@ class MyApp extends StatelessWidget {
         // and then invoke "hot reload" (save your changes or press the "hot
         // reload" button in a Flutter-supported IDE, or press "r" if you used
         // the command line to start the app).
-        //
+        //git config --global user.email "you@example.com"
+        // git config --global user.name "Your Name"
+        // git config --global user.password "your password"
         // Notice that the counter didn't reset back to zero; the application
         // state is not lost during the reload. To reset the state, use hot
         // restart instead.
